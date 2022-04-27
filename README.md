@@ -25,14 +25,15 @@
   
    ## Demo
 
-   
+   ![demo](assets/demo_image.png)
+   (https://youtu.be/Cf001jGUMO8)
   ## Screenshot
-  
+  ![image](assets/team_profile.html.png)
   
 
   ## Testing
-  
-  
+  ![image](assets/team_profile_test.png)
+  run npm test from the command line
   ## Languages
   JavaScript, HTML, CSS, Bootstrap, Google Fonts, Node, Inquirer, Jest
   
