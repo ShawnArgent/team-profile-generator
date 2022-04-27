@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+  } 
+
+.jumbotron {
+    background-color: rgb(197, 50, 50);
+    color: white;
+    box-shadow: 0px 0px 5px 5px rgb(245, 140, 140);
+
+}
+
+.card-header {
+    background-color: rgb(50, 50, 240);
+    box-shadow: 0px 0px 5px 5px rgb(40, 40, 135);
+    color: white;
+    margin: 1rem;
+    border: none;
+}
+
+.card {
+    background-color: rgb(25, 28, 223);
+    box-shadow: 0px 0px 5px 5px rgb(155, 182, 235);
+    margin: 1rem;
+    border: none;
+}
